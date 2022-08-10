@@ -20,16 +20,15 @@
 	<properties>
 		<maven.compiler.source>1.6</maven.compiler.source>
 		<maven.compiler.target>1.6</maven.compiler.target>
-	</properties>
- 
-	<!--
-	<properties>
-		<sonar.host.url>http://35.154.242.68:9000/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
+		<sonar.host.url>http://localhost:9000/</sonar.host.url>
+		<sonar.login>ae1c14758ae9936938b16594730e63b6b52b42dc</sonar.login>
+	<!--	
 		<sonar.password>admin</sonar.password>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	-->
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	
 	</properties>
--->
+	
 	<dependencies>
 
 		<dependency>
